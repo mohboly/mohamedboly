@@ -18,12 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Development finance, Climate change policies, Private sector development, labor markets.
+# bio: My research interests include Development finance, Climate change policies, Private sector development, labor markets.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Development Economics
+- Development financing
+- Climate change
+- Political Economy
+- Private sector development
 
 education:
   courses:
@@ -49,7 +51,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/mohamed_boly
 - icon: google-scholar
-  icon_pack: google-scholar.jpg
+  icon_pack: ai
   link: https://scholar.google.ch/citations?hl=fr&user=qsDmJPkAAAAJ
 # - icon: github
 # icon_pack: fab
