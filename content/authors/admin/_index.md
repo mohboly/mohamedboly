@@ -73,6 +73,5 @@ user_groups:
 - Visitors
 ---
 
-Mohamed Boly is a ..............interested in.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Ph.D student in Ecnomics at the Center for studies and Researches on International Development (CERDI), University Clermont Auvergne.
+My researches are mainly (but not exclusively) focused on areas around and at the intersection of development finance, political economy, climate change, food security and private sector development. I use recent quantitative methods to produce policy-relevant studies in these areas.
