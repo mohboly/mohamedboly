@@ -49,7 +49,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/mohamed_boly
 - icon: google-scholar
-  icon_pack: google-scholar.jpeg
+  icon_pack: google-scholar.jpg
   link: https://scholar.google.ch/citations?hl=fr&user=qsDmJPkAAAAJ
 # - icon: github
 # icon_pack: fab
