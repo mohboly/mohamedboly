@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "26 Avenue Leon Blum", city = "Clermont-Ferrand", region = "C", postcode = "63000", country = "France", country_code = "U"}
+address = {street = "26 Avenue Leon Blum", city = "Clermont-Ferrand", region = "", postcode = "63000", country = "France", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "0606.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "mohamed_boly"
