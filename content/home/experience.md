@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "World Bank"
   company_url = ""
   location = "California"
-  date_start = "2020-01-01"
+  date_start = "2020-01-02"
   date_end = ""
   description = """
   #Responsibilities include:
